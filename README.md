@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harascho1
-- 👀 I’m interested in Rendering and Graphics
+- 👀 I’m interested in Rendering, Graphics and also Game Dev
 - 🌱 I’m currently learning at Computer Sience University of Nis 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making games in c language
 - 📫 How to reach me ...
 - ⚡ Fun fact: In c you can get an element in array in 3 ways: array[i], [array]i, array+i 
 
